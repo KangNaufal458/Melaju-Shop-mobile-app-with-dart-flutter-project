@@ -17,8 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Beberapa tampilan dari aplikasi Melaju Car Shop 
 ![Screenshot 2026-02-18 124942](https://github.com/user-attachments/assets/6b72d04b-e2e7-44d3-a6e9-4e7e59a762c0)
+Tampilan loading screen
+
 ![Screenshot 2026-02-18 125031](https://github.com/user-attachments/assets/cccba768-06b9-4f81-948a-b7da9358e55f)
+Tampilan halaman awal saat sudah di home akan ada iklan 
+
 ![Screenshot 2026-02-18 125048](https://github.com/user-attachments/assets/5943ea00-2529-41f1-b9fa-47bccde07714)
+Tampilan home saat iklan sudah di close
 
 
 
